@@ -9,6 +9,16 @@ If you already have, just run the file **main.py** in the terminal of your choic
 
 *Obs:* The downloaded photos are placed in the **ProfilePhothos** folder.
 
+## You can change!
+
+By default, photos are downloaded in .png, but you can change the extension that you want.
+You just need to change the line 13 in the main.py file.
+Example:
+`path = path.join(getcwd(), "ProfilePhotos", f"{username}.jpeg")`
+or
+`path = path.join(getcwd(), "ProfilePhotos", f"{username}.jpg")`
+
+
 ## Contributing
 
 1. Fork it (<https://github.com/rafaelalmeida2909/ProfilePhoto-Instagram-Downloader/fork>)
