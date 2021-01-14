@@ -1,6 +1,6 @@
 # Instagram Profile Photo Downloader
 
-A program that get the instagram profile photos of any users, developed in Python3.
+A program that gets the instagram profile photos of any users, developed in Python3.
 
 ## How to run?
 
